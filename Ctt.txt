@@ -1,0 +1,8 @@
+Laravel and vue
+
+# Run 
+vue : npm run watch 
+laravel : php artisan serve 
+
+
+https://www.positronx.io/create-laravel-vue-js-crud-single-page-application/
